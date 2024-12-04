@@ -1,5 +1,6 @@
-# git-code-practice
 Git uygulama eğitimi
+Git uygulama eğitimi
+
 
 git reset --soft HEAD~1 => yapılan değişiklikleri geri alıp değişiklikleri silmeden tutar;
 git reset --hard HEAD~1 => yapılan değişiklikleri geri alıp değişiklikleri tamamen siler;

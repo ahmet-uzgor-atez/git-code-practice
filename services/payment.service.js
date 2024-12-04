@@ -3,7 +3,7 @@ class Paymentservice {
         this.paymentTransaction = {}
     };
 
-    getTransactionById(transactionId) {
+    getTransaction(transactionId) {
         return this.paymentTransaction[transactionId];
     }
 }

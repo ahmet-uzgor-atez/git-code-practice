@@ -5,6 +5,9 @@ Git uygulama eğitimi
 git reset --soft HEAD~1 => yapılan değişiklikleri geri alıp değişiklikleri silmeden tutar;
 git reset --hard HEAD~1 => yapılan değişiklikleri geri alıp değişiklikleri tamamen siler;
 
+git rebase --continue
+git rebase --abort
+
 
 main =>                                                                                 PR-develop-main
         develop =>
